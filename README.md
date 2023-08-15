@@ -1,5 +1,3 @@
-# README
-
 <h1 align="center">Hi 👋, I'm António Alves</h1>
 <h3 align="center">A passionate for Data Analysis living in Portugal</h3>
 
