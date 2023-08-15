@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **antonio.lucio@outlook.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/alvesa](www.linkedin.com/in/alvesa)
-
 - ⚡ Fun fact **I love soccer ⚽**
 
 <h3 align="left">Connect with me:</h3>
